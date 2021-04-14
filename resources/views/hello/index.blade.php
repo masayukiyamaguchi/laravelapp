@@ -9,7 +9,7 @@
     @endsection
 
     @section("content")
-        <p>ここが本文のコンテンツです。</p>
+        <p>ここが本文のこんてんつです。</p>
         <ul>
 
         <p>Controller value<br>"message"={{$message}}</p>
